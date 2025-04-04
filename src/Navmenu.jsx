@@ -1,5 +1,5 @@
 import { Link } from "react-router-dom";
-import { items } from "./data.js";
+import { items } from "./data.json";
  
 function Navmenu()
 {

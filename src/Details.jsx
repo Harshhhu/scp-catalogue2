@@ -1,4 +1,4 @@
-import{items} from './data.js';
+import{items} from './data.json';
 function Details(props)
 {
     // get the product id from props
